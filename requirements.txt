@@ -1,0 +1,6 @@
+streamlit>=1.30
+dropbox>=11.36
+folium>=0.15
+streamlit-folium>=0.18
+pandas>=2.0
+plotly>=5.18
